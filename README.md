@@ -20,8 +20,8 @@ Dynamic URL Crawler is a Python-based asynchronous web scraping tool built using
 ### Steps to Install
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RaKAsHASH/UrlExtractor.git
-   cd UrlExtractor
+   git clone https://github.com/RaKAsHASH/urlExtractor.git
+   cd urlExtractor
    ```
 2. SetUp a virtual Environment
    ```bash
